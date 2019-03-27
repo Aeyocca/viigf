@@ -1,8 +1,8 @@
 # VIIGF
-# Alan E. Yocca
-# aeyap42@gmail.com
-# @Aeyocca (twitter)
-# Uploaded 03-27-19
+Alan E. Yocca
+aeyap42@gmail.com
+@Aeyocca (twitter)
+Uploaded 03-27-19
 
 This is a horrible acronym but it keeps the file names nice and concise
 
@@ -26,4 +26,13 @@ This is a horrible acronym but it keeps the file names nice and concise
   - depending if they are trimmed reads or not
 - run ./viigf_launch.sh
   - type: ```$ ./viigf_launch.sh ``` without any arguments to see the command line options
+
+# viigf_pbj.sbatch
+- untested as of 03-27-19
+- additionally, code written to run MaSuRCA, prefer other assembly methods though
+  - since my MaSuRCA build is fragile
+
+
+
+
 
