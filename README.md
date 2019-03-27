@@ -19,6 +19,7 @@ This is a horrible acronym but it keeps the file names nice and concise
 
 # Configuration file:
 - set variables to what you need them to be
+- example configuration file: viigf_config_ragoo.conf
 
 # To set it all off!
 - make sure the configuration file is set how you would like it to be set
